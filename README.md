@@ -1,7 +1,7 @@
 # Criando um arquivo Ransomware com python
 
-Nesse desafio foi feito um arquivo .txt para ser o algo do malware ransomware
-Na maquina virtual foi instalado o pyaes para fazer a encriptação dos dados
+Nesse desafio foi feito um arquivo .txt para ser o alvo do malware ransomware <br>
+Na máquina virtual foi instalado o pyaes para fazer a encriptação dos dados
 
 encrypter.py -> Script para encriptar os dados <br>
 decrypter.py -> Script para descriptografar os dados <br>
